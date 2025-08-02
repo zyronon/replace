@@ -57,3 +57,4 @@ function data(){
     }
 }
 data();
+window.dxd = true
